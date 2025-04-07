@@ -56,7 +56,7 @@ We prove
 - the exact number of so-called relevant extrema for selected parameter values and
 - semi-conjugacy of the $`P_a`$ restricted to some invariant set to the Bernoulli shift on 2-13 symbols, depending on parameter value. This leads to a lower bound of the topological entropy.
 
-All the above results are computer-assisted. The C++ programs validates set of inequalities for the Poincare map, from which we can conclude about the results.
+All the above results are computer-assisted. The C++ programs validate set of inequalities for the $`P_a`$ and its derivatives, from which we can conclude about the results.
 
 ### Existence of a trapping region <a name="trapping"></a> ###
 
@@ -107,7 +107,7 @@ The program executes 33 minutes on a computer with 144CPUs.
 
 We proved that there are five saddle-bifurcations of fixed points of $`P_a`$ in the considered parameter range. 
 
-The following program validates existence of these bifurcations and teh existence of smooth branches of fixed points, as described in the article. 
+The following program validates existence of these bifurcations and the existence of smooth branches of fixed points, as described in the article. 
 
 In order to run the program call
 

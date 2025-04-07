@@ -158,7 +158,7 @@ The program is based on the [**CAPD library**](https://github.com/CAPDGroup/CAPD
 - data structures and algorithms for rigorous integration of ODEs
 - data structures and algorithms for rigorous computation of Poincare maps
 
-Before you download ad compile the CAPD library, check the list of its [**requirements**](http://capd.ii.uj.edu.pl/html/capd_requirements.html)
+Before you download and compile the CAPD library, check the list of its [**requirements**](http://capd.ii.uj.edu.pl/html/capd_requirements.html)
 
 In an empty directory:
 
@@ -170,11 +170,11 @@ In an empty directory:
     make -j
     cd ../../
   ```
-- after succesfull compilation of the CAPD library clone source code of the main programs and compile them. In the last line provide a correct relative or absolute path to the `CAPD/build/bin` directory
+- after succesfull compilation of the CAPD library clone source code of the main programs and compile them
   ```
     git clone https://github.com/dbwilczak/entropy-growth
     cd entropy-growth && mkdir dep && mkdir obj
-    make -j CAPD=pathToCAPDBuildBinDirectory
+    make -j
   ```
 - After succesfull compilation four executables are created:
   - `checkConjugacy`

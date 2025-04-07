@@ -1,5 +1,5 @@
 # CAPD installation settings
-CAPD = ./CAPD/build/bin
+CAPD = ../CAPD/build/bin
 INCLUDE = `$(CAPD)/capd-config --cflags` -I./include
 LIBS =  `$(CAPD)/capd-config --libs`
 # compiler 
@@ -24,9 +24,3 @@ dep/%.d: src/%.cpp
 clean:
 	rm -f dep/*.d $(PROGS)
 
-tar:
-	make clean
-	tar cfvz rossler-templates.tgz src/* include/* dep data/*.dat Makefile
-
-run:
-	./main

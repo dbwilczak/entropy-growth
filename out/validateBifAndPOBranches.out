@@ -1,0 +1,206 @@
+
+Start Verification of SN bifurcations and branches of periodic orbits: Sat Mar  1 04:50:20 2025
+
+Number of threads: 144
+####################################
+
+e: {[-2.423469282419617e-12, 2.390582078234569e-12],[-4.977027235569982e-16, 4.944078874135115e-16],[-7.521038515132812e-15, 7.680208972906323e-15]}
+eigenvalue: [0.0001283359321778761, 0.0001283359328112734]
+subset(u0,U): true
+N: {[-2.012091994994769e-07, 2.011915319250207e-07],[-1.145367114123452e-05, 1.145406757606405e-05]}
+N: {[6.260172281296801e-08, 6.260173505714911e-08],[-8.216371480092709e-09, -8.215881924766189e-09]}
+N: {[-6.260330063396309e-08, -6.26032883493924e-08],[-8.185758960348906e-09, -8.185269019647771e-09]}
+gradLeft: {[0.0001251983834145939, 0.0001252054104657399],[-3.298185931818835e-05, -3.275627684084979e-05]}
+gradRight: {[0.0001252046407328969, 0.000125211677582182],[3.262517139306141e-05, 3.285028497897092e-05]}
+hess[1]: [0.0563079031730038, 0.07523258654420176]
+Initial number of tasks: 12177
+New Boxes in subdivision: 116
+New Boxes in subdivision: 148
+New Boxes in subdivision: 86
+New Boxes in subdivision: 46
+New Boxes in subdivision: 26
+New Boxes in subdivision: 14
+New Boxes in subdivision: 8
+New Boxes in subdivision: 4
+New Boxes in subdivision: 2
+New Boxes in subdivision: 0
+Final number of boxes in subdivision: 12402
+Initial number of tasks: 12177
+New Boxes in subdivision: 172
+New Boxes in subdivision: 210
+New Boxes in subdivision: 114
+New Boxes in subdivision: 54
+New Boxes in subdivision: 28
+New Boxes in subdivision: 14
+New Boxes in subdivision: 8
+New Boxes in subdivision: 4
+New Boxes in subdivision: 2
+New Boxes in subdivision: 0
+Final number of boxes in subdivision: 12480
+counter: 24882
+result: true
+e: {[-4.161421840671292e-12, 3.991427353041221e-12],[-7.016252041791717e-16, 6.846412114708592e-16],[-8.585865560134999e-15, 9.894455142443499e-15]}
+eigenvalue: [0.0001112964446373904, 0.0001112964506137024]
+subset(u0,U): true
+N: {[-9.628940868528926e-08, 9.626977733810187e-08],[-4.515470545749053e-06, 4.51592084915842e-06]}
+N: {[2.175215939562447e-08, 2.175221811575045e-08],[-5.792846256666178e-09, -5.790563865418266e-09]}
+N: {[-2.175242069113394e-08, -2.175236175593004e-08],[-5.746672569603465e-09, -5.744398020456047e-09]}
+gradLeft: {[0.0001087259536088598, 0.0001087949330649269],[-5.917560674731246e-05, -5.667025831043818e-05]}
+gradRight: {[0.0001087276587440133, 0.0001087972673609678],[5.619533576356067e-05, 5.870479800076684e-05]}
+hess[1]: [0.07430140694746455, 0.5414913731916563]
+Initial number of tasks: 10828
+New Boxes in subdivision: 21654
+New Boxes in subdivision: 15562
+New Boxes in subdivision: 416
+New Boxes in subdivision: 378
+New Boxes in subdivision: 234
+New Boxes in subdivision: 136
+New Boxes in subdivision: 78
+New Boxes in subdivision: 46
+New Boxes in subdivision: 30
+New Boxes in subdivision: 20
+New Boxes in subdivision: 10
+New Boxes in subdivision: 0
+Final number of boxes in subdivision: 30110
+Initial number of tasks: 10828
+New Boxes in subdivision: 21656
+New Boxes in subdivision: 31182
+New Boxes in subdivision: 766
+New Boxes in subdivision: 848
+New Boxes in subdivision: 364
+New Boxes in subdivision: 170
+New Boxes in subdivision: 88
+New Boxes in subdivision: 50
+New Boxes in subdivision: 30
+New Boxes in subdivision: 20
+New Boxes in subdivision: 10
+New Boxes in subdivision: 0
+Final number of boxes in subdivision: 38420
+counter: 68530
+result: true
+e: {[-5.64987340154206e-12, 5.546728088053989e-12],[-9.322982796991749e-16, 9.219103247203257e-16],[-9.850654595936422e-15, 1.044337059261398e-14]}
+eigenvalue: [0.0001046714325698982, 0.0001046714712091629]
+subset(u0,U): true
+N: {[-4.015179828309426e-08, 4.013298455075712e-08],[-1.730463187017422e-06, 1.730835848099076e-06]}
+N: {[1.023557798861189e-08, 1.023577181887836e-08],[-4.929235058123115e-09, -4.922045783461191e-09]}
+N: {[-1.02358178461292e-08, -1.023562373042807e-08],[-4.85272726317799e-09, -4.845634361031105e-09]}
+gradLeft: {[0.0001021699678929487, 0.0001025432619352218],[-0.0001055104142198177, -9.153925979733986e-05]}
+gradRight: {[0.0001021687864754534, 0.0001025459146931342],[9.003011237424515e-05, 0.0001039278281505154]}
+hess[1]: [0.462222098094428, 1.575400879391236]
+Initial number of tasks: 5121
+New Boxes in subdivision: 10240
+New Boxes in subdivision: 19368
+New Boxes in subdivision: 146
+New Boxes in subdivision: 108
+New Boxes in subdivision: 70
+New Boxes in subdivision: 42
+New Boxes in subdivision: 26
+New Boxes in subdivision: 16
+New Boxes in subdivision: 10
+New Boxes in subdivision: 6
+New Boxes in subdivision: 0
+Final number of boxes in subdivision: 20137
+Initial number of tasks: 5121
+New Boxes in subdivision: 10240
+New Boxes in subdivision: 20480
+New Boxes in subdivision: 612
+New Boxes in subdivision: 304
+New Boxes in subdivision: 116
+New Boxes in subdivision: 54
+New Boxes in subdivision: 30
+New Boxes in subdivision: 16
+New Boxes in subdivision: 12
+New Boxes in subdivision: 6
+New Boxes in subdivision: 2
+New Boxes in subdivision: 0
+Final number of boxes in subdivision: 21057
+counter: 41194
+result: true
+e: {[-1.160189009331974e-11, 1.157859702007799e-11],[-2.687559467357723e-15, 2.686201912263515e-15],[-4.610475391156361e-14, 4.571249013902097e-14]}
+eigenvalue: [0.000101527579772382, 0.000101527883233047]
+subset(u0,U): true
+N: {[-1.85097251340449e-08, 1.849969726008878e-08],[-6.834849782087598e-07, 6.83680438092636e-07]}
+N: {[3.972459272856927e-09, 3.972783542252127e-09],[-2.387422642805722e-09, -2.376651372719058e-09]}
+N: {[-3.972791612309673e-09, -3.972464306961679e-09],[-2.338421433909089e-09, -2.32775131799914e-09]}
+gradLeft: {[9.888455293216343e-05, 9.974740816260059e-05],[-0.0001345775079745427, -0.000103678290493836]}
+gradRight: {[9.88766357194266e-05, 9.975388592288515e-05],[0.0001012787437373827, 0.0001320535589884547]}
+hess[1]: [1.145949590869187, 5.252585137834758]
+Initial number of tasks: 2293
+New Boxes in subdivision: 4584
+New Boxes in subdivision: 9168
+New Boxes in subdivision: 17960
+New Boxes in subdivision: 104
+New Boxes in subdivision: 70
+New Boxes in subdivision: 46
+New Boxes in subdivision: 30
+New Boxes in subdivision: 18
+New Boxes in subdivision: 12
+New Boxes in subdivision: 8
+New Boxes in subdivision: 6
+New Boxes in subdivision: 2
+New Boxes in subdivision: 0
+Final number of boxes in subdivision: 18297
+Initial number of tasks: 2293
+New Boxes in subdivision: 4584
+New Boxes in subdivision: 9168
+New Boxes in subdivision: 18336
+New Boxes in subdivision: 1106
+New Boxes in subdivision: 706
+New Boxes in subdivision: 84
+New Boxes in subdivision: 40
+New Boxes in subdivision: 22
+New Boxes in subdivision: 14
+New Boxes in subdivision: 10
+New Boxes in subdivision: 8
+New Boxes in subdivision: 4
+New Boxes in subdivision: 0
+Final number of boxes in subdivision: 19334
+counter: 37631
+result: true
+e: {[-2.4525876873774e-11, 2.445214780368773e-11],[-4.42658075842066e-15, 4.424749444780287e-15],[-5.839160160797076e-14, 5.881453396208424e-14]}
+eigenvalue: [9.988062130826846e-05, 9.988141588670008e-05]
+subset(u0,U): true
+N: {[-5.773693200179881e-09, 5.77170628219342e-09],[-1.825283083126375e-07, 1.825672264132803e-07]}
+N: {[9.77038691828019e-10, 9.774000992669534e-10],[-4.230007639122621e-10, -4.134888271979819e-10]}
+N: {[-9.774046856665567e-10, -9.770333957927887e-10],[-4.165903680797154e-10, -4.069488589408962e-10]}
+gradLeft: {[9.68088343645433e-05, 9.863973067828902e-05],[-0.0001139105608823262, -5.354595444309883e-05]}
+gradRight: {[9.679481697196905e-05, 9.864441045648742e-05],[5.239059670428273e-05, 0.0001124637835189558]}
+hess[1]: [2.143728852040681, 16.77954091320666]
+Initial number of tasks: 7209
+New Boxes in subdivision: 14418
+New Boxes in subdivision: 28804
+New Boxes in subdivision: 57392
+New Boxes in subdivision: 610
+New Boxes in subdivision: 80
+New Boxes in subdivision: 50
+New Boxes in subdivision: 32
+New Boxes in subdivision: 20
+New Boxes in subdivision: 14
+New Boxes in subdivision: 12
+New Boxes in subdivision: 10
+New Boxes in subdivision: 6
+New Boxes in subdivision: 4
+New Boxes in subdivision: 0
+Final number of boxes in subdivision: 57935
+Initial number of tasks: 7209
+New Boxes in subdivision: 14418
+New Boxes in subdivision: 28836
+New Boxes in subdivision: 57672
+New Boxes in subdivision: 8370
+New Boxes in subdivision: 148
+New Boxes in subdivision: 68
+New Boxes in subdivision: 38
+New Boxes in subdivision: 22
+New Boxes in subdivision: 16
+New Boxes in subdivision: 12
+New Boxes in subdivision: 10
+New Boxes in subdivision: 8
+New Boxes in subdivision: 8
+New Boxes in subdivision: 4
+New Boxes in subdivision: 0
+Final number of boxes in subdivision: 62024
+counter: 119959
+result: true
+result: true
+Computation completed: Sat Mar  1 05:08:16 2025
+Elapsed time: 17.93258186871667 minutes

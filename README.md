@@ -142,7 +142,7 @@ The program executes over two hours on a computer with 144CPUs.
 
 ### Required resources <a name="requirements"></a>
 - The programs are parallelized by means of the C++17 threading.
-- All programs require quite large amount of CPU time. THe reported time of computation is circa **6 hours on 144 CPUs**.
+- All programs require quite large amount of CPU time. THe reported time of computation is circa **5 hours on 144 CPUs**.
 - The computer should support at least **64GB** of RAM memory.
 
 ___

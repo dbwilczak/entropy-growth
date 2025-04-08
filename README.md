@@ -1,17 +1,17 @@
 # ENTROPY-GROWTH: supplement to the article 
 
-### Daniel Wilczak, Sergio Serrano and Roberto Barrio<br> A mechanism for growth of topological entropy and global changes of the shape of chaotic attractors
+### Daniel Wilczak, Sergio Serrano and Roberto Barrio<br> A mechanism for growth of topological entropy and global changes of the shape of chaotic attractors<br><br> [http://arxiv.org/abs/2504.04887](http://arxiv.org/abs/2504.04887)
 
 The purpose of this document is to provide
 
 - a short overview of the results proved in the article
-- an instruction of how one can compile and run the programs, which validate different properties of the Roessler system
+- an instruction of how one can compile and run the programs, which validate different properties of the Rössler system
 - describe structure and output of the programs
 
 ## Table of content
 
-- [The Roessler system](#roessler)
-- [The main results about the Roessler system](#results)
+- [The Rössler system](#roessler)
+- [The main results about the Rössler system](#results)
   - [Existence of a trapping region](#trapping)
   - [Counting relevant extrema](#extrema)
   - [Existence of saddle-node bifurcations](#bifs)
@@ -22,9 +22,9 @@ The purpose of this document is to provide
   - [Source codes](#code)
 
   
-## The Roessler system <a name="roessler"></a>
+## The Rössler system <a name="roessler"></a>
 
-The 3D Roessler system is an ODE
+The 3D Rössler system is an ODE
 
 > $`\frac{d}{dt}x = -(y+1),\quad \frac{d}{dt}y = x+ay,\quad \frac{d}{dt}z=b+z(x-c)`$
 
@@ -48,7 +48,7 @@ depending on the parameter $`a`$.
 
 <img src="pic/attractor03659.png" width="400"/>
 
-## The main results about the Roessler system <a name="results"></a> ##
+## The main results about the Rössler system <a name="results"></a> ##
 
 We prove 
 - the existence of a trapping region for $`P_a`$

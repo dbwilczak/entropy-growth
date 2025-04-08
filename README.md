@@ -32,7 +32,7 @@ We fix the parameter values
 
 > $`b=0.2,\ c=15`$ 
 
-and study the behaviour the of the system for
+and study the behaviour of the system for
 
 > $`a\in [a_{\mathrm{min}},a_{\mathrm{max}}]=[0.12,0.3659].`$ 
 
@@ -72,7 +72,10 @@ In order to run the program call
 
 `./checkTrappingRegion > out/checkTrappingRegion.out`
 
-**Here is a sample output of the program**
+**The source code of the program**
+>  [**src/checkTrappingRegion.cpp**](src/checkTrappingRegion.cpp)
+
+**A sample output of the program**
 >  [**out/checkTrappingRegion.out**](out/checkTrappingRegion.out)
 
 The program executes over two hours on a computer with 144CPUs.
@@ -96,7 +99,10 @@ In order to run the program call
 
 `./validateExtrema > out/validateExtrema.out`
 
-**Here is a sample output of the program**
+**The source code of the program**
+>  [**src/validateExtrema.cpp**](src/validateExtrema.cpp)
+
+**A sample output of the program**
 >  [**out/validateExtrema.out**](out/validateExtrema.out)
 
 The program executes 33 minutes on a computer with 144CPUs.
@@ -113,7 +119,10 @@ In order to run the program call
 
 `./validateBifAndPOBranches > out/validateBifAndPOBranches.out`
 
-**Here is a sample output of the program**
+**The source code of the program**
+>  [**src/validateBifAndPOBranches.cpp**](src/validateBifAndPOBranches.cpp)
+
+**A sample output of the program**
 >  [**out/validateBifAndPOBranches.out**](out/validateBifAndPOBranches.out)
 
 The program executes 18 minutes on a computer with 144CPUs.
@@ -129,7 +138,10 @@ In order to run the program call
 
 `./checkConjugacy > out/checkConjugacy.out`
 
-**Here is a sample output of the program**
+**The source code of the program**
+>  [**src/checkConjugacy.cpp**](src/checkConjugacy.cpp)
+
+**A sample output of the program**
 >  [**out/checkConjugacy.out**](out/checkConjugacy.out)
 
 It contains pairs (parameter range,transition matrix). That is, for specified parameter interval semiconjugacy to a Bernoulli shift with corresponding transition matrix is validated.
